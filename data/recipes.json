@@ -1,0 +1,2918 @@
+[
+  {
+    "id": "1",
+    "title": "Le Fondu",
+    "category": "Menu classique",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/fondu.jpg",
+    "prepTime": "25 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Tomme de savoie AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Oignons Caramélisés",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Salade",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Lard Fumé",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Tomates confites",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Le Dunkerquois",
+    "category": "Menu classique",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/dunkerquois.jpg",
+    "prepTime": "26 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Maroilles AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Pickels d'oignons rouges",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Salade",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Lard Fumé",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Le Champi",
+    "category": "Menu classique",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/champi.jpg",
+    "prepTime": "27 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Fourme d'Ambert AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Poêlée de champignons",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Oignons caramélisés",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Le Calendos",
+    "category": "Menu classique",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/calendos.jpg",
+    "prepTime": "28 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Camembert AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Noix",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Pickles de pomme",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Salade",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Le Comtois",
+    "category": "Menu classique",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/comtois.jpg",
+    "prepTime": "29 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Comté AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Pickels d'oignons rouges",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Salade",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Tomates confites",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Le Cheddar",
+    "category": "Menu classique",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/cheddar.jpg",
+    "prepTime": "30 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Cheddar mâturé",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Oignons Caramélisés",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Salade",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Pickels de cornichons",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Le butternut",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/butternut.png",
+    "prepTime": "31 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Butternut rôti au romarin",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Emmental au lait cru",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Noisettes torréfiées",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Oignons caramélisés",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Mayonnaise au piment d'espelette",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Le Brie",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/brie.png",
+    "prepTime": "32 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Brie de meaux au lait cru AOP 1/2 affiné",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Mortadelle truffe et pistache",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Sauce à la truffe noir",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf aubrac ou Galette de PDT au Comté maison",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Le Reblochon",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/reblochon.png",
+    "prepTime": "33 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Reblochon au lait cru AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Oignons blanc et ail cuisinés au vin blanc",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Lard fumé",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Rondelles de PDT rôti au thym",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Mâche",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Crème aux herbes",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac ou galette de PDT au Comté maison",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Le Savoyard",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/savoyard.png",
+    "prepTime": "34 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Abondance AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Chutney d'échalotes au miel de montagne",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Pousses d'épinard",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Mayonnaise à la moutarde à l'ancienne",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac ou galette de PDT au Comté maison",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Le Saint-Nectaire",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/saint-nectaire.png",
+    "prepTime": "35 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Saint Nectaire fermier au lait cru AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Pickels de choux rouges",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Confit de pruneaux d'Agen",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Mayonnaise maison",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac ou galette de PDT au Comté maison",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "12",
+    "title": "L'Italien",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/italien.png",
+    "prepTime": "36 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Provola Fumé",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Jambon de de Parme AOP affiné 14 mois",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Jeunes pousses",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Pesto à la Pistache maison",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Mayonnaise maison",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "13",
+    "title": "L'Épicé",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/epice.png",
+    "prepTime": "37 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Effiloché de dinde épicé en longue cuisson basse température",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Noix de cajou torréfiées",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Emmental au lait cru",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Sauce curry madras",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Oignons rouges",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Mâche",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf aubrac ou galette de PDT au Comté",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Le Basque",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/basque.png",
+    "prepTime": "38 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Tomme Basque de brebis et chèvre médaillé d'or",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Chorizo de Bellota Ibérique",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Poêlée de poivrons et oignons",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Jeunes pousses",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Mayonnaise au piment d'Espelette!",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Le Tourangeau",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/tourangeau.png",
+    "prepTime": "39 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Fromage de chèvre Sainte maure de Touraine AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Courgettes rôties aux herbes de Provence",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Cebettes",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Mesclun",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Sauce moutarde et miel",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "16",
+    "title": "L'Aubergine Parmesan",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/aubergine.png",
+    "prepTime": "40 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Parmesan AOP affiné 12 mois minimum",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Aubergine grillé",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Oignons rouges",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Pesto rouge maison",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Mayonnaise maison",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Le Brebis-Figue",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/brebis-figue.png",
+    "prepTime": "41 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Tomme de pur brebis Basque",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Figues de Solliès-Pont",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Confit d'oignons au vin rouge",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Noix",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Jeunes pousses",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Mayonnaise maison",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Le Raclette",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/raclette.png",
+    "prepTime": "42 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Raclette de Savoie au lait cru IGP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Saucisse de Morteau IGP label rouge",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Crème à l'ail des ours",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Cebettes",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Jeunes Pousses",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac ou Galette de PDT au Comté maison",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Le Brillat-Savarin",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/brillat-savarin.png",
+    "prepTime": "43 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Brillat-Savarin Affiné IGP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Jambon blanc italien à la truffe",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Sauce à la truffe noir",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Oignons blanc",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Mâche",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac ou Galette de PDT au Comté maison",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "20",
+    "title": "Le Morbier",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/morbier.png",
+    "prepTime": "44 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Morbier AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Chutney pommes/échalotes au miel de montagne maison",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Lard fumé",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Mayonnaise ciboulette maison",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Jeunes pousses",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac ou galette de PDT au Comté maison",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Le Savoyard au Reblochon",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/savoyard-au-reblochon.png",
+    "prepTime": "45 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Reblochon AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Tranche de Boeuf séché de Savoie",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Sauce à l'ail Noir et au persil",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Oignons blancs",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac ou Galette de PDT au Comté maison",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Le Cantal-Magret",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/cantal-magret.png",
+    "prepTime": "46 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Cantal entre-deux AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Tranche de magret de canard fumé",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Sauce au poivre vert de Kampot et armagnac",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Pousses d'épinard",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Oignons caramélisés",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac ou galette de PDT au Comté maison",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "23",
+    "title": "Le Chèvre Basque",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/chevre-basque.png",
+    "prepTime": "47 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Tomme de chèvre Basque",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Pickels de betterave chioggia",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Noix",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Sauce miel et moutarde à l'ancienne",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Jeunes pousses",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac ou galette de PDT au Comté maison",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "24",
+    "title": "Le Suisse",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/suisse.png",
+    "prepTime": "48 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Gruyère Suisse au lait cru AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Saucisse de Montbéliard IGP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Sauce Tartare maison",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac ou galette de PDT au Comté AOP maison",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "25",
+    "title": "Le Mexicain",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/mexicain.png",
+    "prepTime": "49 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Effiloché de porc basse température façon carnitas",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Manchego AOP 12 mois d'affinage",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Pico de Gallo",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Pickels d'oignons rouges à la canelle",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Mayo Chipotle maison",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Jeunes pousses",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "26",
+    "title": "Le Comtois d'Asperges",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/comtois-asperges.png",
+    "prepTime": "50 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Comté AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Asperges snackées",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Lard fumé",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Mayo citron persil maison",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "27",
+    "title": "L'Ibérique",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/iberique.png",
+    "prepTime": "51 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Manchego AOP affinage 12 mois",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Chorizo de Bellota Ibérique",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Poivrons en marinade maison",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Sauce paprika fumé et ail maison",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Jeunes pousses",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "28",
+    "title": "Le Grec",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/grec.png",
+    "prepTime": "52 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Fêta AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Mélange Tomates et olives noires",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Oignons rouges",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Tzatzíki maison",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Jeunes pousses",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "29",
+    "title": "Le Cheddar-Avocat",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/cheddar-avocat.png",
+    "prepTime": "53 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Cheddar Maturé",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Avocat",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Mayo citron vert et piment d'espelette maison",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Lard fumé",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Oignons rouges",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Le Bleu-Betterave",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/bleu-betterave.png",
+    "prepTime": "54 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Bleu d'Auvergne AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Mayo à la betterave maison",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Noix",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Micro pousses de betteraves",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Mâche",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "31",
+    "title": "Le Tourangeau-Figue",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/tourangeau-figue.png",
+    "prepTime": "55 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Chèvre Sainte-Maure-de-Tourraine AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Figues de Solliès-Pont",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Jambon de Parmes AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Mayonnaise au sésame et ses graines torréfiés maison",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "32",
+    "title": "Le Gorgonzola-Poire",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/gorgonzola-poire.png",
+    "prepTime": "56 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Gorgonzola AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Tartare de Poires et Noix",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Sauce au poivre de Timut",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Mesclun",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Fleur d'Occitanie ou galette de PDT au Comté maison",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "33",
+    "title": "Le Savoyard-Butternut",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/savoyard-butternut.png",
+    "prepTime": "57 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Abondance AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Butternut rôti",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Noisettes torréfiés",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Sauce Curry maison",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Fleur d'Occitanie",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "34",
+    "title": "Le Mont d'Or",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/mont-dor.png",
+    "prepTime": "58 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Mont d'or AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Rosette Label Rouge",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Confit d'échalotes au vin blanc",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Sauce à l'ail",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Mâche",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Fleur d'Occtanie",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "35",
+    "title": "Le Brie-Truffe",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/brie-truffe.png",
+    "prepTime": "59 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Brie à la truffe noire",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Chutney d'oignons rouges au Miel/Balsamique",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Sauce à la truffe noire",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Amandes torréfiés",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "36",
+    "title": "Le Grison-Raclette",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/grison-raclette.png",
+    "prepTime": "1:00 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Raclette à la viande des grisons",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Mayo ciboulette",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Tranche de viande des grisons",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Pickles de moutardes",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Oignons blanc",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Jeunes pousses",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "37",
+    "title": "Le Flamand",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/flamand.png",
+    "prepTime": "1:01 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Effiloché de bœuf Aubrac façon Carbonnade Flamande",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Gouda extra extra vieux",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Pickles de carottes",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Mayo maison",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Oignons Blanc",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Jeunes pousses",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "38",
+    "title": "Le Franc-Comtois au Morbier",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/franc-comtois-morbier.png",
+    "prepTime": "1:02 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Morbier AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Sauce au Lard fumé maison",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Noix",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Oignons caramélisés",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "39",
+    "title": "L'Italien Piquant",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/italien-piquant.png",
+    "prepTime": "1:03 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Provolone piquant",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Spianata",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Mayonnaise au pesto rouge d'amandes croquantes maison",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "40",
+    "title": "Le Cévenol au Pélardon",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/cevenol-pelardon.png",
+    "prepTime": "1:04 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Pélardon AOP (Chèvre)",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Sauce au Miel et Thym",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Amandes torréfiées",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Oignons doux",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Jeunes pousses",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "41",
+    "title": "Le Normand au Pont l'Évêque",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/normand-pont-leveque.png",
+    "prepTime": "1:05 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Pont l'évêque AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Oignons confits au Cidre",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Sarrasin torréfié",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Mayonnaise monté au vinaigre de cidre maison",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Mâche",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "42",
+    "title": "Le Champenois à l'Abricot",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/champenois-abricot.png",
+    "prepTime": "1:06 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Chaource AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Abricots de Solliès-Pont rôti au Miel",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Noix",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Sauce au thym",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "43",
+    "title": "Le Provençal Jaune",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/provencal-jaune.png",
+    "prepTime": "1:07 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Mozzarella",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Tomates jaunes de Provence",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Pignons de pins torréfiés",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Sauce au basilic maison",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "44",
+    "title": "Le Méditerranéen au Zaatar",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/mediterraneen-zaatar.png",
+    "prepTime": "1:08 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Féta AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Aubergine rôti au Zaataar",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Houmous maison",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Sauce à l'ail maison",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Oignons rouges",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Jeunes pousse",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "45",
+    "title": "Le Savoyard Tartare",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/savoyard-tartare.png",
+    "prepTime": "1:09 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Abondance AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Lard fumé",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Sauce Tartare maison (🌱cornichons, câpres, echalottes, persil, estragon, ciboulette🌱)",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "46",
+    "title": "Le Provençal à la Figue",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/provencal-figue.png",
+    "prepTime": "1:10 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Chèvre cendré affiné @gaec_les_belles_de_provence La Crau",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Figue de Solliès-Pont",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Noix",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Sauce Miel/Thym. Miel de Maquis IGP de la Miellerie de Solliès",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "47",
+    "title": "L'Italien au Chianti",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/italien-chianti.png",
+    "prepTime": "1:11 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Gorgonzolla AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Jambon blanc Italien aux herbes",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Mayo aux noix maison",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Confit d'oignons au Chianti (vin rouge italien)",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "48",
+    "title": "Le Mont d'Or à l'Ail des Ours",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/mont-dor-ail-des-ours.png",
+    "prepTime": "1:12 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Mont d'or AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Lard fumé",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Crème à l'ail des ours",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Cebettes",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Mâche",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "49",
+    "title": "Le Savoyard au Poivre",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/savoyard-poivre.png",
+    "prepTime": "1:13 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Raclette de Savoie IGP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Saucisse de Montbéliard IGP",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Sauce au poivre 5 Baies",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Confit d'échalotes au vin blanc de Savoie.",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "50",
+    "title": "L'Italien à la Truffe",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/italien-truffe.png",
+    "prepTime": "1:14 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Pecorino truffé",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Mayo à la truffe maison",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Jambon Blanc",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Chutney d'oignons rouges Miel/Balsamique maison",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "51",
+    "title": "Le Ch'ti au Bergues",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/chti-bergues.png",
+    "prepTime": "1:15 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Fromage de Bergues Fermier",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Confit d'oignons à la bière",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Lard fumé de cochons de plein air",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Mayo maison",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "52",
+    "title": "Le Savoyard au Poivre Vert",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/savoyard-poivre-vert.png",
+    "prepTime": "1:16 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Raclette à l'ail des Ours",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Sauce au poivre vert de Kerala maison",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Noix",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Oignons Blanc",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "53",
+    "title": "Le Tourangeau au Chèvre",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/tourangeau-chevre.png",
+    "prepTime": "1:17 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Chèvre Sainte-Maure-de-Tourraine AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Confit d'oignons miel et vinaigre de framboises",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Amandes torréfiées",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Sauce au Thym maison",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Boeuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "54",
+    "title": "L'Italien au Taleggio",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/italien-taleggio.png",
+    "prepTime": "1:18 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Taleggio AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Mortadelle de Bologne IGP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Mayo au Pesto vert à la pistache maison",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Crème de Balsamique",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Oignons rouges",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "55",
+    "title": "Le Jurassien Mexicain",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/jurassien-mexicain.png",
+    "prepTime": "1:19 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Comté AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Lard fumé",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Guacamole maison",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Mayo Citron vert et piment d'espelette",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Oignon Rouge",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "56",
+    "title": "Le Corse à la Pietra",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/corse-pietra.png",
+    "prepTime": "1:20 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Tomme de Brebis Corse",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Coppa Corse",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Oignons confits à la Pietra",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Mayo maison aux tomates confites",
+        "quantity": 1,
+        "unit": "c_a_c",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac.",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "57",
+    "title": "Le Savoyard aux Grisons",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/savoyard-grisons.png",
+    "prepTime": "1:21 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Abondance AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Viande des grisons",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Sauce ail et ciboulette",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Cebettes",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Pousses d'épinards",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  },
+  {
+    "id": "58",
+    "title": "Le GOAT",
+    "category": "Burgers du moment",
+    "baseServings": 1,
+    "imageUrl": "/images/recipes/goat.jpg",
+    "prepTime": "1:22 min",
+    "difficulty": "Facile",
+    "ingredients": [
+      {
+        "name": "Parmesan AOP",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Sauce au Basilic",
+        "quantity": 1,
+        "unit": "c_a_s",
+        "scalable": true
+      },
+      {
+        "name": "Lard Fumé",
+        "quantity": 1,
+        "unit": "tranche",
+        "scalable": true
+      },
+      {
+        "name": "Tomates jaunes",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Oignons Rouges",
+        "quantity": 1,
+        "unit": "portion",
+        "scalable": true
+      },
+      {
+        "name": "Roquette",
+        "quantity": 1,
+        "unit": "feuille",
+        "scalable": true
+      },
+      {
+        "name": "Bœuf Aubrac",
+        "quantity": 1,
+        "unit": "pièce",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      "Étape 1",
+      "Étape 2"
+    ]
+  }
+]

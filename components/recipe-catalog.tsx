@@ -1,0 +1,318 @@
+"use client";
+
+import Image from "next/image";
+import { useMemo, useState } from "react";
+import {
+  CATEGORY_ORDER,
+  FILTER_OPTIONS,
+  formatIngredient,
+  getScaleFactor,
+  type CategoryFilter,
+  type Recipe,
+  type RecipeCategory,
+} from "@/lib/recipe-utils";
+
+const difficultyStyles: Record<string, string> = {
+  Facile: "bg-emerald-100 text-emerald-800",
+  Moyen: "bg-amber-100 text-amber-800",
+  Difficile: "bg-rose-100 text-rose-800",
+};
+
+function PortionsSelector({
+  value,
+  onChange,
+}: {
+  value: number;
+  onChange: (value: number) => void;
+}) {
+  return (
+    <div className="flex flex-col gap-3 rounded-2xl border border-amber-200/80 bg-white/90 p-4 shadow-sm backdrop-blur sm:flex-row sm:items-center sm:justify-between sm:gap-6 sm:p-5">
+      <div>
+        <p className="text-sm font-semibold text-stone-900">
+          Nombre de burgers
+        </p>
+        <p className="mt-0.5 text-sm text-stone-500">
+          Les quantités s&apos;ajustent automatiquement (ex.&nbsp;: 1 steak → 4
+          steaks pour 4 burgers).
+        </p>
+      </div>
+      <div className="flex items-center gap-2 self-start sm:self-auto">
+        <button
+          type="button"
+          aria-label="Moins de burgers"
+          disabled={value <= 1}
+          onClick={() => onChange(Math.max(1, value - 1))}
+          className="flex h-10 w-10 items-center justify-center rounded-full border border-stone-200 bg-stone-50 text-lg font-medium text-stone-700 transition-colors hover:border-amber-300 hover:bg-amber-50 disabled:cursor-not-allowed disabled:opacity-40"
+        >
+          −
+        </button>
+        <span className="min-w-[3rem] text-center text-xl font-bold tabular-nums text-amber-800">
+          {value}
+        </span>
+        <button
+          type="button"
+          aria-label="Plus de burgers"
+          onClick={() => onChange(value + 1)}
+          className="flex h-10 w-10 items-center justify-center rounded-full border border-stone-200 bg-stone-50 text-lg font-medium text-stone-700 transition-colors hover:border-amber-300 hover:bg-amber-50"
+        >
+          +
+        </button>
+      </div>
+    </div>
+  );
+}
+
+function CategoryFilterBar({
+  value,
+  onChange,
+}: {
+  value: CategoryFilter;
+  onChange: (value: CategoryFilter) => void;
+}) {
+  return (
+    <div
+      className="flex flex-col gap-2 sm:gap-3"
+      role="group"
+      aria-label="Filtrer par catégorie"
+    >
+      <p className="text-sm font-semibold text-stone-900">Catégorie</p>
+      <div className="flex flex-wrap gap-2">
+        {FILTER_OPTIONS.map((option) => {
+          const isActive = value === option.value;
+          return (
+            <button
+              key={option.value}
+              type="button"
+              aria-pressed={isActive}
+              onClick={() => onChange(option.value)}
+              className={`rounded-full px-4 py-2 text-sm font-medium transition-colors ${
+                isActive
+                  ? "bg-amber-700 text-white shadow-sm"
+                  : "border border-stone-200 bg-white text-stone-700 hover:border-amber-300 hover:bg-amber-50"
+              }`}
+            >
+              {option.label}
+            </button>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
+function RecipeCard({
+  recipe,
+  targetServings,
+}: {
+  recipe: Recipe;
+  targetServings: number;
+}) {
+  const scaleFactor = getScaleFactor(recipe, targetServings);
+  const scaledIngredients = useMemo(
+    () =>
+      recipe.ingredients.map((ingredient) =>
+        formatIngredient(ingredient, scaleFactor),
+      ),
+    [recipe.ingredients, scaleFactor],
+  );
+
+  const difficultyClass =
+    difficultyStyles[recipe.difficulty] ?? "bg-stone-100 text-stone-700";
+
+  const servingsNote = `Pour ${targetServings} burger${targetServings > 1 ? "s" : ""}`;
+
+  return (
+    <article className="group flex flex-col overflow-hidden rounded-2xl border border-stone-200/80 bg-white shadow-sm transition-all duration-300 hover:-translate-y-1 hover:border-amber-200 hover:shadow-xl hover:shadow-amber-900/10">
+      <div className="relative aspect-[4/3] overflow-hidden">
+        <Image
+          src={recipe.imageUrl}
+          alt={recipe.title}
+          fill
+          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 50vw"
+          className="object-cover transition-transform duration-500 group-hover:scale-105"
+        />
+        <div className="absolute inset-0 bg-gradient-to-t from-stone-900/50 via-transparent to-transparent opacity-80" />
+        <span
+          className={`absolute right-3 top-3 rounded-full px-3 py-1 text-xs font-semibold backdrop-blur-sm ${difficultyClass}`}
+        >
+          {recipe.difficulty}
+        </span>
+      </div>
+
+      <div className="flex flex-1 flex-col gap-4 p-5">
+        <div>
+          <h3 className="text-lg font-semibold tracking-tight text-stone-900 transition-colors group-hover:text-amber-800">
+            {recipe.title}
+          </h3>
+          <p className="mt-1 flex flex-wrap items-center gap-x-1.5 gap-y-0.5 text-sm text-stone-500">
+            <span aria-hidden>⏱</span>
+            {recipe.prepTime}
+            <span className="text-stone-300">·</span>
+            <span className="font-medium text-amber-700">{servingsNote}</span>
+          </p>
+        </div>
+
+        <div>
+          <h4 className="text-xs font-semibold uppercase tracking-wider text-stone-400">
+            Ingrédients
+          </h4>
+          <ul className="mt-2 space-y-1 text-sm text-stone-600">
+            {scaledIngredients.slice(0, 4).map((item) => (
+              <li key={item} className="flex gap-2">
+                <span className="text-amber-500">•</span>
+                <span>{item}</span>
+              </li>
+            ))}
+            {scaledIngredients.length > 4 && (
+              <li className="text-xs text-stone-400">
+                + {scaledIngredients.length - 4} autres…
+              </li>
+            )}
+          </ul>
+        </div>
+
+        <details className="mt-auto group/details">
+          <summary className="cursor-pointer list-none text-sm font-medium text-amber-700 transition-colors hover:text-amber-900 [&::-webkit-details-marker]:hidden">
+            <span className="inline-flex items-center gap-1">
+              Voir toutes les quantités et les étapes
+              <span className="transition-transform group-open/details:rotate-180">
+                ▾
+              </span>
+            </span>
+          </summary>
+          <ul className="mt-3 space-y-1.5 border-t border-stone-100 pt-3 text-sm text-stone-600">
+            {scaledIngredients.map((item) => (
+              <li key={item} className="flex gap-2">
+                <span className="text-amber-500">•</span>
+                <span>{item}</span>
+              </li>
+            ))}
+          </ul>
+          <ol className="mt-4 space-y-2 text-sm leading-relaxed text-stone-600">
+            {recipe.steps.map((step, index) => (
+              <li key={step} className="flex gap-3">
+                <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-amber-100 text-xs font-semibold text-amber-800">
+                  {index + 1}
+                </span>
+                <span>{step}</span>
+              </li>
+            ))}
+          </ol>
+        </details>
+      </div>
+    </article>
+  );
+}
+
+function RecipeSection({
+  category,
+  recipes,
+  targetServings,
+  showHeading,
+}: {
+  category: RecipeCategory;
+  recipes: Recipe[];
+  targetServings: number;
+  showHeading: boolean;
+}) {
+  if (recipes.length === 0) return null;
+
+  return (
+    <section aria-labelledby={`section-${category}`} className="space-y-6">
+      {showHeading && (
+        <div className="flex items-end justify-between gap-4 border-b border-stone-200/80 pb-3">
+          <h2
+            id={`section-${category}`}
+            className="text-2xl font-bold tracking-tight text-stone-900"
+          >
+            {category}
+          </h2>
+          <span className="text-sm text-stone-500">
+            {recipes.length} recette{recipes.length > 1 ? "s" : ""}
+          </span>
+        </div>
+      )}
+      <ul className="grid grid-cols-1 gap-6 sm:grid-cols-2">
+        {recipes.map((recipe) => (
+          <li key={recipe.id}>
+            <RecipeCard recipe={recipe} targetServings={targetServings} />
+          </li>
+        ))}
+      </ul>
+    </section>
+  );
+}
+
+function EmptyFilterMessage({ filter }: { filter: CategoryFilter }) {
+  const message =
+    filter === "Toutes"
+      ? "Aucun burger disponible pour le moment."
+      : `Aucun burger dans « ${filter} » pour le moment.`;
+
+  return (
+    <p className="rounded-2xl border border-dashed border-stone-300 bg-white/60 px-6 py-10 text-center text-stone-500">
+      {message}
+    </p>
+  );
+}
+
+export function RecipeCatalog({ recipes }: { recipes: Recipe[] }) {
+  const [targetServings, setTargetServings] = useState(4);
+  const [categoryFilter, setCategoryFilter] =
+    useState<CategoryFilter>("Toutes");
+
+  const recipesByCategory = useMemo(() => {
+    const grouped: Record<RecipeCategory, Recipe[]> = {
+      "Menu classique": [],
+      "Burgers du moment": [],
+    };
+    for (const recipe of recipes) {
+      grouped[recipe.category].push(recipe);
+    }
+    return grouped;
+  }, [recipes]);
+
+  const visibleCategories = useMemo(() => {
+    if (categoryFilter === "Toutes") {
+      return CATEGORY_ORDER;
+    }
+    return [categoryFilter];
+  }, [categoryFilter]);
+
+  const hasVisibleRecipes = visibleCategories.some(
+    (category) => recipesByCategory[category].length > 0,
+  );
+
+  return (
+    <>
+      <div className="mb-10 space-y-4">
+        <div className="rounded-2xl border border-amber-200/80 bg-white/90 p-4 shadow-sm backdrop-blur sm:p-5">
+          <CategoryFilterBar
+            value={categoryFilter}
+            onChange={setCategoryFilter}
+          />
+        </div>
+        <PortionsSelector
+          value={targetServings}
+          onChange={setTargetServings}
+        />
+      </div>
+
+      {!hasVisibleRecipes ? (
+        <EmptyFilterMessage filter={categoryFilter} />
+      ) : (
+        <div className="space-y-14">
+          {visibleCategories.map((category) => (
+            <RecipeSection
+              key={category}
+              category={category}
+              recipes={recipesByCategory[category]}
+              targetServings={targetServings}
+              showHeading={categoryFilter === "Toutes"}
+            />
+          ))}
+        </div>
+      )}
+    </>
+  );
+}
