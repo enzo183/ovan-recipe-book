@@ -13,8 +13,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Catalogue burgers",
-  description: "Burgers du menu classique et recettes du moment",
+  title: "Recettes O'Van Burger",
+  description: "Recettes du O'Van Burger",
+  themeColor: "#ffffff", // Ajoute cette ligne
+  manifest: "/manifest.json", // Force le lien vers le manifest
 };
 
 export default function RootLayout({
