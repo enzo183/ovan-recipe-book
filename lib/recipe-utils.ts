@@ -120,3 +120,36 @@ export const FILTER_OPTIONS: { value: CategoryFilter; label: string }[] = [
   { value: "Menu classique", label: "Menu classique" },
   { value: "Burgers du moment", label: "Burgers du moment" },
 ];
+
+function normalizeSearchText(value: string): string {
+  return value
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/\p{Diacritic}/gu, "");
+}
+
+export function getRecipeSearchableText(recipe: Recipe): string {
+  const parts = [
+    recipe.title,
+    recipe.category,
+    recipe.prepTime,
+    recipe.difficulty,
+    ...recipe.ingredients.map((ingredient) => ingredient.name),
+    ...recipe.steps,
+  ];
+
+  return normalizeSearchText(parts.join(" "));
+}
+
+export function recipeMatchesSearch(recipe: Recipe, query: string): boolean {
+  const tokens = normalizeSearchText(query.trim())
+    .split(/\s+/)
+    .filter(Boolean);
+
+  if (tokens.length === 0) {
+    return true;
+  }
+
+  const haystack = getRecipeSearchableText(recipe);
+  return tokens.every((token) => haystack.includes(token));
+}
