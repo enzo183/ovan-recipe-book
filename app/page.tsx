@@ -10,11 +10,9 @@ export default function Home() {
       <main className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
         <header className="mb-10 text-center sm:mb-14 sm:text-left">
           <p className="text-sm font-medium uppercase tracking-widest text-amber-500">
-            Catalogue recettes
+            Les recettes du O'Van Burger
           </p>
-          <h1 className="mt-2 font-sans text-4xl font-bold tracking-tight text-white sm:text-5xl">
-            Catalogue burgers
-          </h1>
+          
           <p className="mx-auto mt-4 max-w-2xl text-lg text-stone-400 sm:mx-0">
             Recherchez par nom ou ingrédient, filtrez par catégorie, puis
             ajustez le nombre de burgers.
